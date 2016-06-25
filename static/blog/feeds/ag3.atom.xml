@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://cdw11-ag100.rhcloud.com/static/blog/feeds/ag3.atom.xml" rel="self"></link><id>http://cdw11-ag100.rhcloud.com/static/blog/</id><updated>2016-06-25T16:05:11+08:00</updated><entry><title>40323124 期末報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323124-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-25T16:05:11+08:00</updated><author><name>40323124</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-25:static/blog/40323124-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw17 協同專案&lt;/p&gt;
+
+
+&lt;p&gt;Leo架構部分&lt;/p&gt;
+&lt;p&gt;1.如圖所示&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/r2ebxBV.jpg" width="80%" /&gt;&lt;/p&gt;
+&lt;p&gt;2.建立畫布&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://imgur.com/S26LXG1.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3.註冊&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/BPIU11r.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/RvTmdrn.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;齒輪及鍊條部分&lt;/p&gt;
+&lt;p&gt;1.繪出2D齒輪及鏈條  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cdw13-40323105.rhcloud.com/a40323105/ag1_2D"&gt;http://cdw13-40323105.rhcloud.com/a40323105/ag1_2D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/PJoDkwL.jpg" width="100%" /&gt;
+&lt;img src="http://i.imgur.com/ySXR7bT.jpg" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;3D齒輪繪圖&lt;/p&gt;
+&lt;p&gt;不同齒輪&lt;/p&gt;
+&lt;p&gt;畫出齒輪 T=45
+&lt;img src="http://i.imgur.com/KI7bmIy.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;畫出齒輪 T=35
+&lt;img src="http://i.imgur.com/MPqMd9T.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;接合不同齒輪:因齒數不同，所以比例45/35&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/tLzE1mN.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/285e1099df8036699bb954e0"&gt;https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/285e1099df8036699bb954e0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;同齒輪&lt;/p&gt;
+&lt;p&gt;畫出齒輪 T=25
+&lt;img src="http://i.imgur.com/Ok4IBj6.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;接合同齒輪:因為相同齒數比25/25&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/GKa7KRt.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/6e252c789677ae6911fbeca0"&gt;https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/6e252c789677ae6911fbeca0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;四個不同齒輪配合&lt;/p&gt;
+&lt;p&gt;第一齒輪我先畫出齒數=25，模數=1，齒厚=10
+&lt;img src="http://i.imgur.com/8oeh31z.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;第二我在畫出齒數=15，模數=1，齒厚=10
+&lt;img src="http://i.imgur.com/y7OLcJG.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;第三我先畫出齒數=45，模數=1，齒厚=10
+&lt;img src="http://i.imgur.com/ivKyXrl.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;第四我先畫出齒數=15，模數=1，齒厚=10
+&lt;img src="http://i.imgur.com/2kedgwD.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;四齒做配合
+&lt;img src="http://i.imgur.com/H6FUDMh.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/bbefd22f2fb78d52bb145614"&gt;https://cad.onshape.com/documents/c43683a113bffc4f1cc3b39a/w/7743a547652db0b32c7c9a2a/e/bbefd22f2fb78d52bb145614&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;就完成不同齒輪的結合&lt;/p&gt;
+&lt;p&gt;心得:
+這學期又用到了onshape這個繪圖軟體，雖然都忘記的差不多了，不過這軟體真的很好上手，只是這次新學了齒輪，我覺得比較困難的地方在於齒輪的嚙合部分，而且輪一多，要嚙合又必須要一直檢查，這次也感謝郭鐙元同學以及其他人的幫忙。&lt;/p&gt;
+&lt;p&gt;自評:70&lt;/p&gt;</summary><category term="40323124"></category><category term="cdw17"></category></entry></feed>
